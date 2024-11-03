@@ -12,7 +12,6 @@ anyio==3.7.1
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 array_record==0.5.1
-arviz==0.20.0
 astropy==6.1.4
 astropy-iers-data==0.2024.10.28.0.34.7
 astunparse==1.6.3
@@ -529,3 +528,4 @@ yarl==1.17.0
 yellowbrick==1.5
 yfinance==0.2.48
 zipp==3.20.2
+arviz==0.11.2
